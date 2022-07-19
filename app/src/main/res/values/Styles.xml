@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<style parent="Theme.AppCompat.NoActionBar" name="AppTheme">
+    <item name="colorPrimary">@color/design_default_color_on_primary</item>
+    <item name="colorPrimaryDark">@color/design_default_color_primary_dark</item>
+    <item name="colorAccent">@color/white</item>
+</style>
+
+
+<style parent="AppTheme" name="SplashTheme">
+    <item name="android:windowBackground"> @drawable/bg </item>
+</style>
+
+</resources>

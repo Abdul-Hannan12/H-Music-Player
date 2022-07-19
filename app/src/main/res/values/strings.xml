@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">H Music</string>
+    <string name="logo">This is the default logo for music icon</string>
+    <string name="empty">No playable files found in this device. Please make sure that your device has mp3 files.</string>
+</resources>
